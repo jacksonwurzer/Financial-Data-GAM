@@ -6,4 +6,4 @@ Generalized Additive Model (GAM) to make predictions for the U.S. financial acco
 
 
 ## Files: 
-- 
+- FinanceData.csv -- CSV file of the dataset used for this project
