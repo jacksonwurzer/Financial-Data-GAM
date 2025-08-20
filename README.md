@@ -1,5 +1,10 @@
 # Generalized Additive Model to Analyze the U.S. Financial Account Balance
 
+## Project Written Report:
+
+A link to my RPubs: https://rpubs.com/jacksonwurzer/1257322 
+
+
 ## Project Overview:
 
 Generalized Additive Model (GAM) to make predictions for the U.S. financial account balance. From Statistical Modeling course at Whitman.
